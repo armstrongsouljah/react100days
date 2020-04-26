@@ -1,0 +1,23 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: #000;
+    height:45px;
+}
+li {
+    float: right;
+    height:30px;
+}
+
+li:first-child {float:left; font-weight: bold;}
+
+a {
+    display:block; 
+    text-decoration: none;
+    width:120px;
+    padding:9px;
+    color: rgb(182, 85, 20);
+}
+.logo a {color: honeydew;}
+
