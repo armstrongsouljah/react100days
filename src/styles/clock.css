@@ -1,0 +1,10 @@
+.clock-card {
+    width: 80vw;
+    margin:auto;
+    box-shadow: 2px 4px 12px 3px;
+    padding:2px;
+}
+.clock-header{
+    text-align: center;
+    font-size: .9rem;
+}
